@@ -1,4 +1,4 @@
-Burada ki reklam veri setinde sutünlar arası korelasyonlarını ölçTÜM.
+Burada ki reklam veri setinde sutünlar arası korelasyonlarını ölçtüm.
 
 ----YAPTIKLARIM----
 
@@ -8,7 +8,8 @@ Veri setindeki null değerleri dummies ile dönüştürdüm.
 
 aralarında ki bağlantıları ölçtüm.
 
-ÖĞRENDİKLERİM
+---ÖĞRENDİKLERİM---
+
 Veriyi istenilen formata dönüştürme.
 Concat ile data frameleri bireştirme.
 Korelasyonlarını değerlendirme.
